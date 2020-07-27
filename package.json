@@ -28,7 +28,7 @@
   "license": "MIT",
   "scripts": {
     
-    "start": "peerjs --port 9000 --key peerjs --path /myapp",
+    "start": "peerjs --port 9000 --key peerjs --path /myapp"
    
   },
   "release": {
